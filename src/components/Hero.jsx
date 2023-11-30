@@ -19,7 +19,7 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        Quickly <span className='orange_gradient'>Summarize</span> any Article with <br className=' max-md:hidden' /> Brief
+        Quickly <span className='blue_gradient'>Summarize</span> any Article with <br className=' max-md:hidden' /> Brief
       </h1>
       <h2 className=' desc'>
         Increase your productivity with the help of BRIEF and get the most out of the article without reading it completely
